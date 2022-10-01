@@ -1,0 +1,90 @@
+#navbar {
+  background-color: #005A9C;
+}
+
+.main-body {
+  margin: 10px;
+  border: 1px solid rgb(13, 95, 95);
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.upper-area {
+  display: flex;
+  align-items: center;
+}
+
+.upper-area h5 {
+  color: goldenrod;
+}
+
+.info-field {
+  border: 1px solid rgb(20, 20, 36);
+  border-radius: 2px;
+  font-size: 12px;
+  line-height: 5px;
+  padding: 3px;
+}
+
+.additional-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.exam-info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3px;
+}
+
+#exam-type {
+  border: 2px solid black;
+  border-radius: 2px;
+  padding-left: 2px;
+  padding-right: 40px;
+}
+
+#exam-date {
+  border: 2px solid black;
+  border-radius: 2px;
+  padding-left: 2px;
+  padding-right: 30px;
+}
+
+table,
+tr,
+td {
+  border: 1px solid black;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 8px;
+  text-align: center;
+}
+
+.total {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5px;
+}
+
+.total-box {
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 2px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.button {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.button button {
+  background-color: rgb(8, 94, 8);
+  color: white;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
